@@ -1,4 +1,4 @@
-## Hi there 👋
+## sam
 
 <!--
 **Sam-6485/Sam-6485** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
